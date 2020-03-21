@@ -12,7 +12,7 @@ $ pkg install jq -y
 $ pkg install git -y
 $ git clone https://github.com/JExCoders/IG-Hack
 $ cd IG-Hack
-$ bash run.sh
+$ bash ighack.sh
 
 Found Error? Send Me Screenshot !!
 
