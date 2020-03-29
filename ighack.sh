@@ -124,4 +124,9 @@ function brute(){
 )
 
 rm target
+read -p "Do You Want Continue [y/n] ? : ask
+if [[ $ask == "y" || $ask == "Y" ]]; then
 bash ighack.sh
+elif [[ $ask == "n" || $ask == "N" ]]; then
+clear
+fi
