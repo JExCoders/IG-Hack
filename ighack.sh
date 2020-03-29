@@ -124,3 +124,5 @@ function brute(){
 )
 
 rm target
+bash ighack.sh
+
