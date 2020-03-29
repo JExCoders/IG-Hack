@@ -124,10 +124,13 @@ function brute(){
 )
 
 rm target
-echo "Do You Want Continue ?" echo
+
+echo "Do You Want Continue ?"
 echo "[1] Ya
 [2] Tidak"
+echo "Pilih salah satu :  " | lolcat
 read nomor
+
 
 if [$nomor = 1 ]
 then
