@@ -23,7 +23,7 @@ echo -e $'''
             -=[ Multiple Bruteforce For Instagram ]=-
               
 
-\e[1;31m      contact: https://fb.me/n00b.me\e[1;37m
+\e[1;31m      contact: https://wa.me/+6288802832083\e[1;37m
 '''
 
 # dependencies
@@ -124,5 +124,18 @@ function brute(){
 )
 
 rm target
+echo "Do You Want Continue ?" echo
+echo "[1] Ya
+[2] Tidak"
+read nomor
+
+if [$nomor = 1 ]
+then
+clear
 bash ighack.sh
+
+if [$nomor = 1 ]
+then
+clear
+fi
 
